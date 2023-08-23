@@ -3,7 +3,7 @@ Essa atividade foi realizada a partir do tutorial encontrado nesse link: https:/
 
 ## Acessando o EC2
 Para acessar a atividade é necessário pesquisar no chrome o link da ec2 seguido do nome do arquivo. Segue exemplo:
-http://EC2 instance endpoint/SamplePage.php
+http:// EC2 instance endpoint/SamplePage.php
 
 ## Link com o vídeo explicativo
-
+https://drive.google.com/file/d/1QD-YNAIwgDT7-FoDsUxSEYxhlLeMnW0k/view?usp=sharing
